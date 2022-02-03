@@ -1,4 +1,2 @@
 # Howdy troupers 👍
-###### "Wecome to my simple scribbles, if it helps, I am happy"
-
-
+###### "Wecome to my simple scribbles, if it helps you, I am happy"
