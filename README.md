@@ -3,7 +3,7 @@
 
 ### About me
 
-A tech enthusiast looks on different options for infrastructure provisioning, managing and 
+A tech enthusiast looks on different options for infrastructure provisioning, managing and longevity during it's life time. 
 
 ### My tech interests/experiances
 - automation
@@ -13,4 +13,3 @@ A tech enthusiast looks on different options for infrastructure provisioning, ma
 - AWS
 - ESXi Servres
 - Cloud Email providers (Google Workspace, Office 365)
-- 
