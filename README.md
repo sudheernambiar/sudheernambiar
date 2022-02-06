@@ -13,3 +13,9 @@ A tech enthusiast looks on different options for infrastructure provisioning, ma
 - AWS
 - ESXi Servres
 - Cloud Email providers (Google Workspace, Office 365)
+- Python
+- Linux
+- Windows
+- Zimbra mail hosting
+- docker
+- kubernetes (on premise)
