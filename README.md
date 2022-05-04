@@ -13,7 +13,7 @@ A tech enthusiast looks on different options for infrastructure provisioning, ma
 - Terraform
 - Ansible
 - AWS
-- ESXi Servres
+- ESXi Servers
 - Cloud Email providers (Google Workspace, Office 365)
 - Python
 - Linux
