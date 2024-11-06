@@ -1,4 +1,4 @@
-# "Howdy trupers 👍"
+# "Howdy troopers 👍"
 ![](https://visitor-badge.laobi.icu/badge?page_id=sudheernambiar)
 ###### "Wecome to my simple scribbles, if it helps you, I am happy"
 
